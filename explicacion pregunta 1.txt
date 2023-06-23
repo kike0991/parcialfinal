@@ -1,0 +1,9 @@
+se elige los componentes y el tiempo dearamdo de cada componente para el armado de la computadora
+luego elegimos el tamño de la poblacion el numero de las generaciones y la probabilidad de la mutacion
+luego se realiza una funcion para calcular el fitness  con el tiempo total del armado de los componente
+generamos una poblacion aleatorea para generar valores aleatoreos de la cantidad de los componentes y lo 
+agregamos al individuo a la poblacion
+seleccionamos dos individuos de la poblaicon para ver cual de los dos es el mejor para ser seleccionado para la reproduccion 
+cruzamos los genes de los padres que se selecionaron se elige un punto de cruce aleatoreo y intercamba los genes
+para poder generar al nuevo hijo
+la funcion algoritmo genetico para generar el menor tiempo de armado y genera el mejor tiempo del mejor individuo 

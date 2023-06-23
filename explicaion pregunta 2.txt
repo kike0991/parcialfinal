@@ -1,0 +1,12 @@
+imprtamos las bibliotecas que corresonden 
+acomodamos los datos de nuestro data set para que podamos proceder con el entrenamiento
+luego normalizamos las variables de entrada restando la media y se divide por la desviacion estandar 
+para luego sacara nuestras variables de entrenamiento y de prueba
+luego teemos nuestra funcion perceptron y empieza a entrenar utlizando los damis 
+para un numero determinado de epocs que daremos y darle tambien una raza de aprendizaje l
+luego vemos los datos en matrices para que podamos sacar el punto que utlizaremos 
+para la prediccion
+luego evaluamos el perceptron con los datos de entrenamiento y un tiempo dado
+en el perceptron
+luego vemos al perceptron entrenado ara las redicciones sobre los nuevos datos
+ya que nos dan una entrada x_new y obtener una salida y_pred
